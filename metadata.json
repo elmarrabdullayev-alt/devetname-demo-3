@@ -1,0 +1,6 @@
+{
+  "name": "Dəvətnamə 3",
+  "description": "Nigar və Ali üçün premium rəqəmsal toy dəvətnaməsi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
